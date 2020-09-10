@@ -1,2 +1,2 @@
 # science_tribute
- A tribute page to science
+A somewhat tribute page to science
